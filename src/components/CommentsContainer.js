@@ -3,27 +3,27 @@ import React from 'react'
 
 const commentsData = [
   {
-  name: "Sumit",
-  text: "This is the first comment",
+  name: "@satheeshshanm",
+  text: "Nice Teaser! wishing great success for SK bro & Rajkumar Sir's team! 👍",
   replies: [
     {
-      name: "Sumit",
-      text: "This is the first comment",
+      name: "@dhanushkardhanush9953",
+      text: "Movies like these should be promoted... Tribute to real life a hero",
       replies: [
         {
-          name: "Sumit",
-          text: "This is the first comment",
+          name: "@udhayakumarsubramaniyam2883",
+          text: "அச்சமில்லை அச்சமில்லை அச்சமென்பதில்லையே",
           replies: [
             {
-              name: "Sumit",
-              text: "This is the first comment",
+              name: "@puthagathozhi2334",
+              text: "IMPRESSSED  I LIKE YOUR WORK MR.SIVAKATHIKEYAN  CONGRAGULATION TO ALL 👌👌",
               replies: [],
             },
           ],
         },
         {
-          name: "Sumit",
-          text: "This is the first comment",
+          name: "@MunishK02",
+          text: "Yet another magnum opus by Siva Karthikeyan",
           replies: [],
         },
       ],
@@ -31,21 +31,21 @@ const commentsData = [
   ]
 },
   {
-  name: "Sumit",
-  text: "This is the first comment",
+  name: "@wilsonmohanmuthiah7217",
+  text: "Congrats universal Hero Kamalhassan sir and sivakarthikeyansir...superb ❤❤🎉",
   replies: [
     {
-      name: "Sumit",
-      text: "This is the first comment",
+      name: "@Yacob_mohd",
+      text: "Dayummmmm ! Shiva annae. Well done 🥵🔥. Let’s go !",
       replies: [
         {
-          name: "Sumit",
-          text: "This is the first comment",
+          name: "@saravanan-qw8jj",
+          text: "Rajkumar Nailed it Man , SK ❤ On New Race OMG Repeat Mood ON Next 3 Days",
           replies: [],
         },
         {
-          name: "Sumit",
-          text: "This is the first comment",
+          name: "@hariharidass2311",
+          text: "Payankarama irukku bro 🔥 Kotha * kotha vera level bro",
           replies: [],
         }
       ],
