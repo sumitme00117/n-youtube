@@ -7,8 +7,8 @@ const ButtonList = () => {
   return (
     <div className='flex'>
         {
-            list.map((item) => (
-                <Button name={item}/>
+            list.map((item, i) => (
+                <Button key={i} name={item}/>
             ))
         }
       
